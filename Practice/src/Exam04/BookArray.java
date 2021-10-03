@@ -1,3 +1,5 @@
+package Exam04;
+
 import java.util.Scanner;
 
 class Book3{

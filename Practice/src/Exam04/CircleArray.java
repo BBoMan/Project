@@ -1,3 +1,5 @@
+package Exam04;
+
 class Circle3 {
     int radius;
     public Circle3(int radius){

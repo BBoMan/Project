@@ -1,3 +1,5 @@
+package Exam04;
+
 public class Book {
     String title;
     String author;

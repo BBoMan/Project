@@ -1,3 +1,5 @@
+package Exam04;
+
 public class Circle2 {
     int radius;
     String name;
