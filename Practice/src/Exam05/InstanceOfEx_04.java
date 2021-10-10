@@ -1,9 +1,9 @@
 package Exam05;
 
 class Person_04 {}
-    class Student_04 extends Person_04 {}
-    class Researcher_04 extends Person_04 {}
-    class Professor_04 extends Researcher_04 {}
+class Student_04 extends Person_04 {}
+class Researcher_04 extends Person_04 {}
+class Professor_04 extends Researcher_04 {}
 
 public class InstanceOfEx_04 {
     static void print(Person_04 p) {
